@@ -13,7 +13,7 @@
 % Fourth output is for CRM pCO2 calculated with specific batch information
 
 % Load in text file with input parameters:
-SRVC = load('Waters_2014_SRVC_Calcs.txt');
+SRVC = load('SRVC_CO2_Carb_Calcs.txt');
 
 % Column Headers:
 % (1) Sample Salinity
